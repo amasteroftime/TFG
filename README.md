@@ -9,10 +9,23 @@ El conjunt d'eines emprat per la elaboració del projecte, de les quals s'han fe
 
 A continuació es proporciona accés als dashboards creats per cada publicador de dades obertes:
 
-## [Mossos d'Esquadra](https://mossos.gencat.cat/ca/els_mossos_desquadra/indicadors_i_qualitat/dades_obertes/)
+## [Mossos d'Esquadra](https://mossos.gencat.cat/ca/els_mossos_desquadra/indicadors_i_qualitat/dades_obertes/) (2011-2020)
 ### [Fets delictius generals i de trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/30e41269-da10-4061-b334-7d4f42c6ad6b#theme=night)
-Integra dades de les següents fonts:
+Integra i creua dades de les següents fonts:
 - Dades delinqüencials:
-  - Fets penals coneguts, fets coneguts resolts i detencions (2011-2020)
+  - Fets penals coneguts, fets coneguts resolts i detencions
+
+- Trànsit i mobilitat:
+  - Fets penals relatius al trànsit coneguts, fets coneguts resolts i detencions
+  - Atestats d'accidents de trànsit
+
+- Activitat policial:
+  - Mitjana diària de patrulles policials
 
 ### [Denúncies tramitades a través d'Internet](http://nattech.fib.upc.edu:40340/public/dashboard/e97c26b2-d884-4154-878d-09620ba91e04#theme=night)
+Integra i creua dades de les següents fonts:
+- Dades delinqüencials:
+  - Denúncies per internet
+
+- Activitat policial:
+  - Temps espera per interposar denúncia
