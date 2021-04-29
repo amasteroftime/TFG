@@ -1,5 +1,5 @@
 # TFG
-Treball de Final de Grau consistent en la integració de fonts de dades de cossos policials per a la seva visualització i anàlisi amb dashboards.
+Treball de Final de Grau d'Enginyeria Informàtica, en l'especialitat d'Enginyeria del Software, a la FIB (UPC), consistent en la integració de fonts de dades de cossos policials per a la seva visualització i anàlisi amb dashboards.
 El conjunt d'eines emprat per la elaboració del projecte, de les quals s'han fet servir les versions Open Source o s'ha cedit una versió lliure, han estat:
 - Eina de dashboarding: [Metabase](https://www.metabase.com/)
 - Base de dades: [PostgreSQL](https://www.postgresql.org/)
