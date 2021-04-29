@@ -7,6 +7,7 @@ El conjunt d'eines emprat per la elaboració del projecte, de les quals s'han fe
 - Eina d'integració: [Pentaho Data Integration](https://sourceforge.net/projects/pentaho/files/Data%20Integration/)
 - Hosting: [Virtech - Gentilesa de l'InLab de la FIB (UPC)](https://inlab.fib.upc.edu/es/servicio-de-cloud-docente-de-la-fib-virtech)
 
+
 A continuació es proporciona accés als dashboards creats per cada publicador de dades obertes:
 
 ## [Mossos d'Esquadra](https://mossos.gencat.cat/ca/els_mossos_desquadra/indicadors_i_qualitat/dades_obertes/) (2011-2020)
