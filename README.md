@@ -12,21 +12,37 @@ A continuació es proporciona accés als dashboards creats per cada publicador d
 
 ## [Mossos d'Esquadra](https://mossos.gencat.cat/ca/els_mossos_desquadra/indicadors_i_qualitat/dades_obertes/) (2011-2020)
 ### [Fets delictius generals i de trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/30e41269-da10-4061-b334-7d4f42c6ad6b#theme=night)
-Integra i creua dades de les següents fonts:
-- Dades delinqüencials:
+Integra i creua dades de les següents fonts del catàleg:
+- **Dades delinqüencials:**
   - Fets penals coneguts, fets coneguts resolts i detencions
 
-- Trànsit i mobilitat:
+- **Trànsit i mobilitat:**
   - Fets penals relatius al trànsit coneguts, fets coneguts resolts i detencions
   - Atestats d'accidents de trànsit
 
-- Activitat policial:
+- **Activitat policial:**
   - Mitjana diària de patrulles policials
 
+### [Fets i víctimes de Violència Masclista i Domèstica](http://nattech.fib.upc.edu:40340/public/dashboard/379d8ae8-62ab-4646-9887-331256a33831#theme=night)
+Integra i creua dades de les següents fonts del catàleg:
+- **Violència masclista i domèstica:**
+  - Víctimes violència masclista - Àmbit familiar
+  - Víctimes violència masclista - Àmbit parella
+  - Víctimes violència masclista - Àmbit social/comunitari-violència sexual
+  - Víctimes de violència domèstica
+  - Fets, denúncies i trencaments de condemna per violència masclista
+  - Fets, denúncies i trencaments de condemna per violència domèstica
+
+- **Dades delinqüencials:**
+  - Fets penals coneguts, fets coneguts resolts i detencions
+
+- **Trànsit i mobilitat:**
+  - Fets penals relatius al trànsit coneguts, fets coneguts resolts i detencions
+
 ### [Denúncies tramitades a través d'Internet](http://nattech.fib.upc.edu:40340/public/dashboard/e97c26b2-d884-4154-878d-09620ba91e04#theme=night)
-Integra i creua dades de les següents fonts:
-- Dades delinqüencials:
+Integra i creua dades de les següents fonts del catàleg:
+- **Dades delinqüencials:**
   - Denúncies per internet
 
-- Activitat policial:
+- **Activitat policial:**
   - Temps espera per interposar denúncia
