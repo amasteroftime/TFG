@@ -4,7 +4,7 @@ El conjunt d'eines emprat per la elaboració del projecte, de les quals s'han fe
 - Eina de dashboarding: [Metabase](https://www.metabase.com/)
 - Base de dades: [PostgreSQL](https://www.postgresql.org/)
 - Eina d'integració: [Pentaho Data Integration](https://sourceforge.net/projects/pentaho/files/Data%20Integration/)
-- Hosting: [gentilesa de l'InLab de la FIB (UPC)](https://inlab.fib.upc.edu/es/servicio-de-cloud-docente-de-la-fib-virtech)
+- Hosting: [Virtech - Gentilesa de l'InLab de la FIB (UPC)](https://inlab.fib.upc.edu/es/servicio-de-cloud-docente-de-la-fib-virtech)
 
 A continuació es proporciona accés als dashboards creats per cada font:
 
