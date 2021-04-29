@@ -1,5 +1,5 @@
 # TFG
-Treball de Final de Grau d'Enginyeria Informàtica, en l'especialitat d'Enginyeria del Software, a la FIB (UPC), consistent en la integració de fonts de dades obertes de cossos policials per a la seva visualització i anàlisi amb dashboards. Es fa especial ènfasi en com la pandèmia ha pogut influir en el canvi de les dades.
+Treball de Final de Grau d'Enginyeria Informàtica, en l'especialitat d'Enginyeria del Software, a la FIB (UPC), consistent en la integració de fonts de dades obertes de cossos policials per a la seva visualització i anàlisi amb dashboards. Es fa especial ènfasi en com la pandèmia de Covid-19 ha pogut influir en el canvi de les dades.
 
 El conjunt d'eines emprat per la elaboració del projecte, de les quals s'han fet servir les versions Open Source o s'ha cedit una versió lliure, han estat:
 - Eina de dashboarding: [Metabase](https://www.metabase.com/)
