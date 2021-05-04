@@ -11,6 +11,7 @@ El conjunt d'eines emprat per la elaboració del projecte, de les quals s'han fe
 A continuació es proporciona accés als dashboards creats per cada publicador de dades obertes:
 
 ## [Mossos d'Esquadra](https://mossos.gencat.cat/ca/els_mossos_desquadra/indicadors_i_qualitat/dades_obertes/) (2011-2020)
+Font: [Generalitat de Catalunya](https://web.gencat.cat/ca/inici/). [Policia de la Generalitat - Mossos d'Esquadra](https://mossos.gencat.cat/ca/inici).
 ### [Fets delictius generals i de trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/30e41269-da10-4061-b334-7d4f42c6ad6b#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Dades delinqüencials:**
