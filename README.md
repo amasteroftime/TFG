@@ -47,3 +47,29 @@ Integra i creua dades de les següents fonts del catàleg:
 
 - **Activitat policial:**
   - Temps espera per interposar denúncia
+
+## Policía Municipal de Madrid (2014-2020)
+Font: [Ayuntamiento de Madrid. Policía Municipal de Madrid](https://datos.madrid.es/sites/v/index.jsp?vgnextoid=bffff1d2a9fdb410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD). (Última actualització: març de 2021).
+### [Fets delictius generals i de trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/37d1a7f4-5b69-4af8-9f10-ec449ae21ffc#theme=night)
+Integra i creua dades de les següents fonts del catàleg:
+- **Dades delinqüencials:**
+  - Detinguts i investigats per motius (inclou Violència Masclista i Domèstica)
+  - Detinguts i investigats per districtes
+  - Incidències de Seguretat ciutadana
+
+- **Trànsit i mobilitat**
+  - Atestats d'accidents
+  - Detinguts i investigats per controls d'alcoholèmia
+
+### [Fets relacionats amb l'oci](http://nattech.fib.upc.edu:40340/public/dashboard/e90c4c77-8aae-4be7-9085-3c26414e280d#theme=night)
+Integra i creua dades de les següents fonts del catàleg:
+- **Dades delinqüencials:**
+  - Detinguts i investigats per motius (inclou Violència Masclista i Domèstica)
+  - Detinguts i investigats per districtes
+  - Consum d'alcohol a la via pública
+  - Actes i denúncies per venda ambulant
+  - Inspeccions i actuacions a locals d'espectacles públics i activitats recreatives
+
+- **Trànsit i mobilitat**
+  - Atestats d'accidents
+  - Detinguts i investigats per controls d'alcoholèmia
