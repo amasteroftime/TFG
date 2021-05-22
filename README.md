@@ -64,7 +64,7 @@ Integra i creua dades de les següents fonts del catàleg:
 ### [Fets relacionats amb l'oci](http://nattech.fib.upc.edu:40340/public/dashboard/e90c4c77-8aae-4be7-9085-3c26414e280d#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Dades delinqüencials:**
-  - Detinguts i investigats per motius (inclou Violència Masclista i Domèstica)
+  - Detinguts i investigats per motius
   - Detinguts i investigats per districtes
   - Consum d'alcohol a la via pública
   - Actes i denúncies per venda ambulant
