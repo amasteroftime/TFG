@@ -12,7 +12,7 @@ A continuació es proporciona accés als dashboards creats per cada publicador d
 
 ## Mossos d'Esquadra (2011-2020)
 Font: [Generalitat de Catalunya. Policia de la Generalitat - Mossos d'Esquadra](https://mossos.gencat.cat/ca/els_mossos_desquadra/indicadors_i_qualitat/dades_obertes/). (Última actualització: abril de 2021).
-### [Fets delictius generals i de trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/30e41269-da10-4061-b334-7d4f42c6ad6b#theme=night)
+### [Fets delictius Generals i de Trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/30e41269-da10-4061-b334-7d4f42c6ad6b#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Dades delinqüencials:**
   - Fets penals coneguts, fets coneguts resolts i detencions
@@ -24,7 +24,7 @@ Integra i creua dades de les següents fonts del catàleg:
 - **Activitat policial:**
   - Mitjana diària de patrulles policials
 
-### [Fets i víctimes de Violència Masclista i Domèstica](http://nattech.fib.upc.edu:40340/public/dashboard/379d8ae8-62ab-4646-9887-331256a33831#theme=night)
+### [Fets delictius i Víctimes de Violència Masclista i Domèstica](http://nattech.fib.upc.edu:40340/public/dashboard/379d8ae8-62ab-4646-9887-331256a33831#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Violència masclista i domèstica:**
   - Víctimes violència masclista - Àmbit familiar
@@ -50,7 +50,7 @@ Integra i creua dades de les següents fonts del catàleg:
 
 ## Policía Municipal de Madrid (2014-2020)
 Font: [Ayuntamiento de Madrid. Policía Municipal de Madrid](https://datos.madrid.es/sites/v/index.jsp?vgnextoid=bffff1d2a9fdb410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD). (Última actualització: març de 2021).
-### [Fets delictius generals i de trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/37d1a7f4-5b69-4af8-9f10-ec449ae21ffc#theme=night)
+### [Fets delictius Generals i de Trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/37d1a7f4-5b69-4af8-9f10-ec449ae21ffc#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Dades delinqüencials:**
   - Detinguts i investigats per motius (inclou Violència Masclista i Domèstica)
@@ -61,7 +61,7 @@ Integra i creua dades de les següents fonts del catàleg:
   - Atestats d'accidents
   - Detinguts i investigats per controls d'alcoholèmia
 
-### [Fets relacionats amb l'oci](http://nattech.fib.upc.edu:40340/public/dashboard/e90c4c77-8aae-4be7-9085-3c26414e280d#theme=night)
+### [Fets delictius relacionats amb l'Oci](http://nattech.fib.upc.edu:40340/public/dashboard/e90c4c77-8aae-4be7-9085-3c26414e280d#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Dades delinqüencials:**
   - Detinguts i investigats per motius
