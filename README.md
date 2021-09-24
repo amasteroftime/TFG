@@ -12,7 +12,7 @@ A continuació es proporciona accés als dashboards creats per cada publicador d
 
 ## Mossos d'Esquadra (2011-2020)
 Font: [Generalitat de Catalunya. Policia de la Generalitat - Mossos d'Esquadra](https://mossos.gencat.cat/ca/els_mossos_desquadra/indicadors_i_qualitat/dades_obertes/). (Última actualització: abril de 2021).
-### [Fets delictius Generals i de Trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/30e41269-da10-4061-b334-7d4f42c6ad6b#theme=night)
+### [Fets delictius Generals i de Trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/00624afd-da5e-4e01-b330-a2eed434606f#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Dades delinqüencials:**
   - Fets penals coneguts, fets coneguts resolts i detencions
