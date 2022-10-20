@@ -5,14 +5,14 @@ El conjunt d'eines emprat per la elaboració del projecte, de les quals s'han fe
 - Eina de dashboarding: [Metabase](https://www.metabase.com/)
 - Base de dades: [PostgreSQL](https://www.postgresql.org/)
 - Eina d'integració: [Pentaho Data Integration](https://sourceforge.net/projects/pentaho/files/Data%20Integration/)
-- Hosting: [Virtech - Gentilesa de l'InLab de la FIB (UPC)](https://inlab.fib.upc.edu/es/servicio-de-cloud-docente-de-la-fib-virtech)
+- Hosting: [Departament d'Enginyeria de Serveis i Sistemes d'Informació - ESSI (UPC)](https://www.essi.upc.edu/ca)
 
 
-A continuació es proporciona accés als dashboards creats per cada publicador de dades obertes:
+A continuació es proporciona accés als dashboards creats per cada publicador de dades obertes (cal tenir accés a la [VPN de la UPC](https://serveistic.upc.edu/ca/upclink)):
 
 ## Mossos d'Esquadra (2011-2020)
 Font: [Generalitat de Catalunya. Policia de la Generalitat - Mossos d'Esquadra](https://mossos.gencat.cat/ca/els_mossos_desquadra/indicadors_i_qualitat/dades_obertes/). (Última actualització: abril de 2021).
-### [Fets delictius Generals i de Trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/38e42f74-e050-4dc5-8b2e-e976839dea12#theme=night)
+### [Fets delictius Generals i de Trànsit](http://wolverine.essi.upc.edu:8080/public/dashboard/38e42f74-e050-4dc5-8b2e-e976839dea12#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Dades delinqüencials:**
   - Fets penals coneguts, fets coneguts resolts i detencions
@@ -24,7 +24,7 @@ Integra i creua dades de les següents fonts del catàleg:
 - **Activitat policial:**
   - Mitjana diària de patrulles policials
 
-### [Fets delictius i Víctimes de Violència Masclista i Domèstica](http://nattech.fib.upc.edu:40340/public/dashboard/7165af45-a3cb-4639-973f-81f8f25470af#theme=night)
+### [Fets delictius i Víctimes de Violència Masclista i Domèstica](http://wolverine.essi.upc.edu:8080/public/dashboard/7165af45-a3cb-4639-973f-81f8f25470af#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Violència masclista i domèstica:**
   - Víctimes violència masclista - Àmbit familiar
@@ -40,7 +40,7 @@ Integra i creua dades de les següents fonts del catàleg:
 - **Trànsit i mobilitat:**
   - Fets penals relatius al trànsit coneguts, fets coneguts resolts i detencions
 
-### [Denúncies tramitades a través d'Internet](http://nattech.fib.upc.edu:40340/public/dashboard/00624afd-da5e-4e01-b330-a2eed434606f#theme=night)
+### [Denúncies tramitades a través d'Internet](http://wolverine.essi.upc.edu:8080/public/dashboard/00624afd-da5e-4e01-b330-a2eed434606f#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Dades delinqüencials:**
   - Denúncies per internet
@@ -50,7 +50,7 @@ Integra i creua dades de les següents fonts del catàleg:
 
 ## Policía Municipal de Madrid (2014-2020)
 Font: [Ayuntamiento de Madrid. Policía Municipal de Madrid](https://datos.madrid.es/sites/v/index.jsp?vgnextoid=bffff1d2a9fdb410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD). (Última actualització: març de 2021).
-### [Fets delictius Generals i de Trànsit](http://nattech.fib.upc.edu:40340/public/dashboard/a10ebee7-6ca6-4349-8494-fe6a6f926b6d#theme=night)
+### [Fets delictius Generals i de Trànsit](http://wolverine.essi.upc.edu:8080/public/dashboard/a10ebee7-6ca6-4349-8494-fe6a6f926b6d#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Dades delinqüencials:**
   - Detinguts i investigats per motius (inclou Violència Masclista i Domèstica)
@@ -61,7 +61,7 @@ Integra i creua dades de les següents fonts del catàleg:
   - Atestats d'accidents
   - Detinguts i investigats per controls d'alcoholèmia
 
-### [Fets delictius relacionats amb l'Oci](http://nattech.fib.upc.edu:40340/public/dashboard/23eafba0-e347-439f-b22d-56048711225f#theme=night)
+### [Fets delictius relacionats amb l'Oci](http://wolverine.essi.upc.edu:8080/public/dashboard/23eafba0-e347-439f-b22d-56048711225f#theme=night)
 Integra i creua dades de les següents fonts del catàleg:
 - **Dades delinqüencials:**
   - Detinguts i investigats per motius
